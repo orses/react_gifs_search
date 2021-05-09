@@ -28,3 +28,4 @@ yarn-error.log*
 #PERSONAL
 /.vscode
 /documentation_dev
+.dccache
